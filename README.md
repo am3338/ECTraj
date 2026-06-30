@@ -8,8 +8,8 @@ This is the official GitHub repository of ["ECTraj: Enhanced Consistency Trainin
 > Qingze (Tony) Liu,
 > Danrui Li,
 > Mathew Schwartz,
-> Kaidong Hu
-> Sejong Yoon
+> Kaidong Hu,
+> Sejong Yoon,
 > Mubbasir Kapadia,
 > Vladimir Pavlovic
 
