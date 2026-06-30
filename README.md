@@ -70,7 +70,7 @@ python val_ectraj.py --root <Path to dataset> --ckpt_path <Path to ECTraj checkp
 ```
 
 ## Citation
-If you find our work helpful, please consider citing it
+If you found our work and/or this repository helpful, please consider citing it:
 ```
 @misc{mrdovic2026enhancingconsistencymodelsmultiagent,
       title={Enhancing Consistency Models for Multi-Agent Trajectory Prediction}, 
