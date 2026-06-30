@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="torch" />
+          <option value="pandas" />
+          <option value="numpy" />
+          <option value="tqdm" />
+          <option value="pyyaml" />
+          <option value="matplotlib" />
+          <option value="wget" />
+          <option value="linear_attention_transformer" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
