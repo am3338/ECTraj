@@ -1,6 +1,6 @@
 # ECTraj
 
-This is the official GitHub repository of ["ECTraj: Enhanced Consistency Training for Multi-Agent Trajectory Prediction"](https://arxiv.org/abs/2605.08572)
+This is the official GitHub repository of ["ECTraj: Enhanced Consistency Training for Multi-Agent Trajectory Prediction"](https://arxiv.org/abs/2605.08572) (ECCV 2026)
 
 
 > **ECTraj: Enhanced Consistency Training for Multi-Agent Trajectory Prediction**  
@@ -87,31 +87,3 @@ We thank the authors of the following repositories for open-sourcing their code:
 - [Query-Centric Trajectory Prediction](https://github.com/ZikangZhou/QCNet).
 - [Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation](https://github.com/YixiaoWang7/OptTrajDiff)
 - [SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction](https://github.com/rainmaker22/SMART)
-
-Please also consider citing their work:
-```
-@inproceedings{zhou2023query,
-  title={Query-Centric Trajectory Prediction},
-  author={Zhou, Zikang and Wang, Jianping and Li, Yung-Hui and Huang, Yu-Kai},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2023}
-}
-
-@inproceedings{wang2024optimizing,
-  title={Optimizing diffusion models for joint trajectory prediction and controllable generation},
-  author={Wang, Yixiao and Tang, Chen and Sun, Lingfeng and Rossi, Simone and Xie, Yichen and Peng, Chensheng and Hannagan, Thomas and Sabatini, Stefano and Poerio, Nicola and Tomizuka, Masayoshi and others},
-  booktitle={European conference on computer vision},
-  pages={324--341},
-  year={2024},
-  organization={Springer}
-}
-
-@article{wu2024smart,
-  title={Smart: Scalable multi-agent real-time motion generation via next-token prediction},
-  author={Wu, Wei and Feng, Xiaoxin and Gao, Ziyan and Kan, Yuheng},
-  journal={Advances in Neural Information Processing Systems},
-  volume={37},
-  pages={114048--114071},
-  year={2024}
-}
-```
